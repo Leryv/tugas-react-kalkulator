@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Latihan kalkulator react
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -40,7 +40,3 @@ npm run dev
 Berikut adalah contoh nya
 
 ![Foto Contoh](/public/foto%20contoh.png)
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
