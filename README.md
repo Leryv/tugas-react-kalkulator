@@ -1,8 +1,46 @@
-# React + Vite
+# tugas-react-kalkulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Contributing](../CONTRIBUTING.md)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About <a name = "about"></a>
+
+Write about 1-2 paragraphs describing the purpose of your project.
+
+## Getting Started <a name = "getting_started"></a>
+
+Install Node JS V20
+
+### Prerequisites
+
+What things you need to install the software and how to install them.
+
+```
+Node JS V20
+```
+
+### Installing
+
+Install Node Module
+
+```
+npm install
+```
+
+running
+
+```
+npm run dev
+```
+
+Berikut adalah contoh nya
+
+![Foto Contoh](/public/foto%20contoh.png)
+
+## Usage <a name = "usage"></a>
+
+Add notes about how to use the system.
